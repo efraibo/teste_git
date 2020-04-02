@@ -12,6 +12,7 @@ public class DemoApplication {
 
     public void teste() {
         System.out.println("");
+        System.out.println("teste 1");
     }
 
 
