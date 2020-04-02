@@ -12,9 +12,6 @@ public class DemoApplication {
 
     public void teste() {
         System.out.println("");
-        System.out.println("teste 1");
-        System.out.println("teste 2");
-        System.out.println("teste 3");
     }
 
 
